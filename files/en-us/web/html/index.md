@@ -1,5 +1,5 @@
 ---
-title: "HTML: HyperText Markup Language"
+title: "HTML: HyperText Markup Language "
 slug: Web/HTML
 page-type: landing-page
 ---
